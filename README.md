@@ -1,5 +1,5 @@
 # Sugarloop
-A waterproof case with inductive charging for RileyLink boards (433 MHz version)
+A waterproof case with inductive charging for RileyLink boards (433 & 915 MHz versions)
 <img src="./sugarloop.png" width="500">
 
 ## Case
