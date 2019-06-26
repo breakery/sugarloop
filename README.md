@@ -1,6 +1,7 @@
 # Sugarloop
 A waterproof case with inductive charging for RileyLink boards (433 MHz version)
-![Image of Sugarloop](./sugarloop.png)
+___
+<img src="./sugarloop.png" width="500">
 
 ## Case
 The waterproof case consists of two parts (top and bottom), is sealed by a silicone seal and held in place by a rubber band. Feel free to print one yourself or have a look at Shapeways if you do not have access to a 3D printer.
