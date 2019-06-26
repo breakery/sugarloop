@@ -14,7 +14,7 @@ Some very decent print result was archieved with the following setup:
 - print time for top and bottom about 4 hours
 
 ### Seal
-The main silicone seal is borrowed from AMP Superseal connector with 6 positions (Digikey Partnumber A106530-ND). Any rubber band with decent tension is good enough to hold to top and bottom of the case in place.
+The main silicone seal is borrowed from AMP Superseal connector with 6 positions ([Digikey Partnumber A106530-ND](https://www.digikey.com/products/en?keywords=A106530-ND)). Any rubber band with decent tension is good enough to hold to top and bottom of the case in place.
 
 ## Hardware
 
@@ -24,5 +24,5 @@ To add reliable inductive charging to the case make sure to use [Adafruits Unive
 ### Battery
 The battery compartment can hold up to a 900mAh LiPo battery pack with a standard JST-PH connector (2mm pitch). Make sure there is enough space between the inductive charging module and the LiPo battery due to expansion while charging. Sucessfully tested with a LiPo battery 42mm x 34mm x 6mm.
 
-## Test
+## Test before use
 Please make sure to test your case in a water condition before inserting the electronic components. Small pieces of paper added to the case compartments work fine to detect potential water leaks.
