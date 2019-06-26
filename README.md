@@ -9,7 +9,7 @@ Some very decent print result was archieved with the following setup:
 - Prusa i3 MK2
 - 0.4mm extruder nozzle
 - Infill 20%
-- High quality PLA, preferable color white to better see the charging led
+- High quality PLA, preferable white color to better see the charging led
 - Support structure for top of the case with some additional support blockers
 - print time for top and bottom about 4 hours
 
