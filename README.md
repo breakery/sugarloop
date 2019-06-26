@@ -2,7 +2,7 @@
 A waterproof case with inductive charging for RileyLink boards (433 MHz version)
 
 ## Case
-The waterproof case consists of two parts (top and bottom), is sealed by a silicone seal and helt in place by a rubber band. Feel free to print one yourself or have a look at Shapeways if you do not have access to a 3D printer.
+The waterproof case consists of two parts (top and bottom), is sealed by a silicone seal and held in place by a rubber band. Feel free to print one yourself or have a look at Shapeways if you do not have access to a 3D printer.
 
 ### Print settings
 Some very decent print result was archieved with the following setup:
